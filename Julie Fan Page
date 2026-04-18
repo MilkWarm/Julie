@@ -1,10 +1,6 @@
 <body>
   <h1> Julie Fan Page! </h1>
-  body {
-background-image: url(https://diy-magazine.s3.eu-west-1.amazonaws.com/d/diy/Artists/J/Julie/_1500x1000_crop_center-center_100_line/julie-Sept24-pc-Silken-Weinberg.jpg);
-background-size: cover;
-background-repeat; no repeat;
-}
+  <img src=https://diy-magazine.s3.eu-west-1.amazonaws.com/d/diy/Artists/J/Julie/_1500x1000_crop_center-center_100_line/julie-Sept24-pc-Silken-Weinberg.jpg>
   <p> Julie is a <b>shoegaze</b> band originating from Orange County, California. Their first and only album is <u>My Anti-Aircraft Friend</u>, although they have two other EP's and <br>
   a single, flutter. Starting in 2018, they've released new music pretty consistently, and each song is enjoyable in my opinion.</p><br>
   <p><a href=https://myantiaircraftfriend.com/> This is their website right here </a>, looks a lot like something I'd make right now!</p>
